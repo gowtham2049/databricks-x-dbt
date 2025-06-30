@@ -1,1 +1,1 @@
-# databricks-x-dbt
+# dbt
